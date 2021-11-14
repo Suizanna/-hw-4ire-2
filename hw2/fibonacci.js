@@ -36,3 +36,4 @@ alert(fib(F0, F1, n));
 continueFib = confirm("Вы хотите продолжить?");
 } while (continueFib === true);
 
+
